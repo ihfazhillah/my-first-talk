@@ -1,9 +1,11 @@
 # About Me
 
+@ul
 - Muhammad Ihfazhillah
 - https://fb.me/mihfazhillah
 - https://blog.ihfaz.com
 - https://github.com/ihfazhillah
+@ulend
 
 ---
 
@@ -53,6 +55,23 @@ goto End
 :End
 ```
 
+sumber : http://blog.akakom.ac.id/rino/cara-mengunci-folder-dengan-notepad/
 ---
 
+### Bagaimana Belajar
 
+@ul
+- Otodidak
+- Penasaran yang tinggi
+- Luasnya Internet
+- Gramedia
+- By Project
+@ulend
+
++++ 
+
+#### Project Pertama
+
+repo : https://gitlab.com/ihfazhillah/targeem-desktop
+
+![Targeem Desktop](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/10919005_1573648312877470_3285556032557313162_n.jpg?_nc_cat=0&oh=1d0edc1da246402450f21fcb539f5d47&oe=5BB1EAF9)
