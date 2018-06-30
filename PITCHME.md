@@ -88,6 +88,8 @@ repo : https://gitlab.com/ihfazhillah/targeem-desktop
 - upwork
 - linkedin
 @ulend
+ 
++++
 
 ### Keluar kerja
 
@@ -98,6 +100,36 @@ Pertimbangan keluar kerja di perusahaan:
 - ingin lebih santai
     - memilih par-time (belum dapat projek lagi nih/job)
 @ulend
+
+---
+
+### Pythonthusiast & Proposal
+
+@ul
+- memutuskan membeli course
+- masih kerja (akhir akhir)
+- setting feed reader
+- apply sebanyak mungkin (yang saya mampu/kemungkinan besar)
+@ulend
+
++++
+
+#### First job
+
+![Job Posting](assets/image/first-job.png)
+
++++
+![proposal](assets/image/first-proposal.png)
+
++++
+
+#### Second job
+![Job Posting](assets/image/second-job.png)
++++
+
+![propsal](assets/image/second-proposal.png)
+
+---
 
 ### Penutup
 
