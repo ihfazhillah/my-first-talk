@@ -75,3 +75,37 @@ sumber : http://blog.akakom.ac.id/rino/cara-mengunci-folder-dengan-notepad/
 repo : https://gitlab.com/ihfazhillah/targeem-desktop
 
 ![Targeem Desktop](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/10919005_1573648312877470_3285556032557313162_n.jpg?_nc_cat=0&oh=1d0edc1da246402450f21fcb539f5d47&oe=5BB1EAF9)
+
+--- 
+
+### Kerja
+
+@ul
+- projects.co.id
+- dapat email
+- lanjut
+- daftar kerja (remote)
+- upwork
+- linkedin
+@ulend
+
+### Keluar kerja
+
+Pertimbangan keluar kerja di perusahaan:
+@ul
+- 8 jam + jam mengajar 
+- butuh uang lahiran = ngelembur + weekend
+- ingin lebih santai
+    - memilih par-time (belum dapat projek lagi nih/job)
+@ulend
+
+### Penutup
+
+@ul
+- Semua semata mata Rizq 
+- Minta pertolongan kepada Alloh
+- Asah kemampuan, banyak baca dan praktek.
+- Praktek
+- Praktek
+- Praktek
+@ulend
